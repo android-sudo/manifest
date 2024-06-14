@@ -29,7 +29,7 @@ $ chmod a+x ~/bin/repo
 
 ### 1.2 Initializing Repo ###
 
-```bash
+
 # Create a directory for the source files
 # This can be located anywhere (as long as the fs is case-sensitive)
 $ mkdir android/crDroid
