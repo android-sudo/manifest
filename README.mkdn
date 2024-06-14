@@ -36,10 +36,10 @@ $ mkdir android/crDroid
 $ cd android/crDroid
 
 # Install Repo in the created directory
-```
+```bash
 repo init --depth=1 -u https://github.com/android-sudo/manifest -b 14.0 --git-lfs 
 ```
-```
+```bash
 repo init --depth=1 -u https://github.com/android-sudo/local_manifest -b 14.0 --git-lfs
 ```
 
