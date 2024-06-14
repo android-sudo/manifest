@@ -40,7 +40,7 @@ $ cd android/crDroid
 repo init --depth=1 -u https://github.com/android-sudo/manifest -b 14.0 --git-lfs 
 ```
 ```bash
-repo init --depth=1 -u https://github.com/android-sudo/local_manifest -b 14.0 --git-lfs
+git clone https://github.com/android-sudo/manifest.git -b crdroid-14 .repo/local_manifests
 ```
 
 This is what you will run each time you want to pull in upstream changes. Keep in mind that on your
